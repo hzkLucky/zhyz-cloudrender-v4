@@ -1,0 +1,11 @@
+{
+  "name": "zhyz-cloudrender-v4",
+  "version": "1.2.110",
+  "description": "cloudrender zhyz",
+  "main": "cloudRender.es.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
